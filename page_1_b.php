@@ -1,4 +1,4 @@
 <?php
-    echo "Página número 2 de la rama 1";
+    echo "Rama 1_B code"
 
 ?>
